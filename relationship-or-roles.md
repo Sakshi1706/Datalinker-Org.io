@@ -20,7 +20,7 @@ farmers and to be used more effectively by solution and service providers.</p>
 
 | Common name  | Definition | Source |
 | ------------- | ------------- | ------------- |
-| ------------- | ------------- | [View](){:target="_blank"} |
+| Farm operator | 1. Farm operator means an individual or entity actually managing and farming land owned by one or more Farm Owners.2. Farm operator means an individual or legal entity other than the owner, lessee, or sublessee that performs any portion of the farming operation. | [View](https://www.lawinsider.com/dictionary/farm-operator){:target="_blank"} |
 | ------------- | ------------- | [View](){:target="_blank"} |
 | ------------- | ------------- | [View](){:target="_blank"} |
 | ------------- | ------------- | [View](){:target="_blank"} |
