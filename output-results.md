@@ -20,7 +20,7 @@ farmers and to be used more effectively by solution and service providers.</p>
 
 | Common name  | Definition | Source |
 | ------------- | ------------- | ------------- |
-| ------------- | ------------- | [View](){:target="_blank"} |
+| Inherent risk | Background risk due to a particular combination of natural characteristics. Inherent risk does not consider best management practices applied to reduce any potential adverse impacts of the activity. | [View](https://www.fertiliser.org.nz/Site/code-of-practice/general/definitions.aspx){:target="_blank"} |
 | ------------- | ------------- | [View](){:target="_blank"} |
 | ------------- | ------------- | [View](){:target="_blank"} |
 | ------------- | ------------- | [View](){:target="_blank"} |
